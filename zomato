@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zomato</title>
+    <link rel="icon" href="logo.PNG">
+</head>
+<body>
+    <h1> <pre>                                           <u><b>ZOMATO</b></u></h1></pre>
+    <pre>                                                                              <i>"delivered at your doorstep"</i></pre>
+    
+    
+    <br>
+    <img src="Food.PNG" alt="food">
+    <br>
+
+     <nav>
+        <ul>
+            <li> <a href="#">Search</a></li>
+            <li> <a href="#">Home</a></li>
+            <li> <a href="#">Add Restaurants</a></li>
+            <li> <a href="#">Sign Up</a></li>
+            <li> <a href="#">Log In</a></li>
+        </ul>
+     </nav>
+     <br>
+     
+    <h2><u>CUISINES</u></h2>
+    
+    <button>Biriyani</button>
+    <button>Pasta</button>
+    <button>Chinese</button>
+    <button>Sadhya</button>
+    <button>Punjabi</button>
+    <button>Lasagna</button>
+    <button>Soup</button>
+    <button>Chats</button>
+    <button>Desserts</button>
+    
+    <h3><u>Biriyani Hut</u></h3>
+    <p><i>Are you in a bad mood? Try our mouth-watering biriyanis.</i></p>
+    <img src="biriyani.PNG" alt="biriyani">
+    <br>
+
+    <h3><u>La Pentola</u></h3>
+    <p><i>Is there a spagetti monster or a meatball monster? Take them all!!</i></p>
+    <img src="Pasta.PNG" alt="pasta">
+    <br>
+
+    <h3><u>Chow Chow</u></h3>
+    <p><i>Noodles and cuddles makes everything better.</i></p>
+    <img src="Noodles.PNG" alt="noodles">
+    <br>
+
+    <h3><u>Kerala Cafe</u></h3>
+    <p><i>Feasting, dancing, and embracing the spirit of sadhya.</i></p>
+    <img src="Sadhya.PNG" alt="meals">
+    <br>
+
+    <h3><u>Desi Days</u></h3>
+    <p><i>You know what they say? Do it the Punjabi way!</i></p>
+    <img src="Butter Chicken.PNG" alt="punjabi">
+    <br>
+
+    <h3><u>Gustoso</u></h3>
+    <p><i>You can't just eat Lasagna and expect to wake up with more friends than before. </i></p>
+    <img src="Lasagna.PNG" alt="pie">
+    <br>
+
+    <h3><u>Hot Brew</u></h3>
+    <p><i>There is nothing a hot bowl of soup can't do.</i></p>
+    <img src="Soup.PNG" alt="soups">
+    <br>
+
+    <h3><u>Munch Box</u></h3>
+    <p><i>Pilates? i thought you said chaat and chutney!</i></p>
+    <img src="Pani Puri.PNG" alt="chaats">
+    <br>
+
+    <h3><u>Cake Story</u></h3>
+    <p><i>It's an emotional day. Even the cakes are in tiers.</i></p>
+    <img src="Tres Leches.PNG" alt="cakes">
+    <br>
+
+    <h2><pre>About Zomato                                  For Restaurants                              Learn More                                       </pre></h2>
+    <h3><pre><a href="#">who we are</a>                                                  <a href="#">Partner with us</a>                                          <a href="#">Privacy</a>  </pre></h3>
+    <h3><pre><a href="#"> Work with us</a>                                               <a href="#">Recipes</a>                                                  <a href="#">Security</a>  </pre></h3>
+    <h3><pre><a href="#"> Report Fraud</a>                                               <a href="#">Apps for you</a>                                             <a href="#">Terms and conditions</a> </pre></h3>
+    <h3><pre><a href="#"> Contact Us</a>                                                 <a href="#">Know More</a>                                                <a href="#">Sitemap</a> </pre></h3>
+
+    <p><a href="#"> <img src="social.PNG" alt="Playstore"></a></p>
+    <p>By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2023 © Zomato™ Ltd. All rights reserved.</p>
+</body>
+</html>
